@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#111b35"/></linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6d5dfc"/><stop offset="1" stop-color="#36c9f6"/></linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#020617" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect width="1600" height="86" fill="#081322"/>
+  <rect x="54" y="20" width="44" height="44" rx="13" fill="url(#brand)"/><path d="M69 54l7-21 8 21-8-5z" fill="white"/>
+  <text x="112" y="53" fill="#f8fafc" font-family="Inter,Arial" font-size="25" font-weight="700">CareerForge</text>
+  <text x="356" y="53" fill="#8192aa" font-family="Inter,Arial" font-size="15">Command Center</text><text x="502" y="53" fill="#8192aa" font-family="Inter,Arial" font-size="15">Practice</text>
+  <text x="594" y="53" fill="#f8fafc" font-family="Inter,Arial" font-size="15" font-weight="700">Mock Interviews</text><text x="746" y="53" fill="#8192aa" font-family="Inter,Arial" font-size="15">Applications</text>
+  <circle cx="1490" cy="42" r="24" fill="#6d5dfc"/><text x="1479" y="49" fill="white" font-family="Arial" font-size="16" font-weight="700">AD</text>
+
+  <rect x="40" y="110" width="310" height="838" rx="24" fill="#0e1b2e" stroke="#223653"/>
+  <text x="70" y="156" fill="#f8fafc" font-family="Inter,Arial" font-size="19" font-weight="700">Mock interview</text>
+  <rect x="70" y="180" width="250" height="92" rx="17" fill="#162640" stroke="#30476b"/>
+  <text x="92" y="210" fill="#69ddff" font-family="Inter,Arial" font-size="12" font-weight="700">BACKEND + GENAI LEAD</text>
+  <text x="92" y="239" fill="#f8fafc" font-family="Inter,Arial" font-size="16" font-weight="700">Resume-tailored loop</text><text x="92" y="260" fill="#8396b1" font-family="Inter,Arial" font-size="12">45 min · adaptive difficulty</text>
+  <text x="70" y="316" fill="#8193ac" font-family="Inter,Arial" font-size="12" letter-spacing="1">INTERVIEW PLAN</text>
+  <circle cx="84" cy="354" r="11" fill="#3fd2b7"/><path d="M79 354l4 4 7-9" fill="none" stroke="#06141c" stroke-width="2"/>
+  <text x="110" y="360" fill="#dbe5f1" font-family="Inter,Arial" font-size="14">Introduction</text><text x="286" y="360" fill="#798ba3" font-family="Inter,Arial" font-size="12">5m</text>
+  <circle cx="84" cy="402" r="11" fill="#6d5dfc"/><text x="80" y="407" fill="white" font-family="Arial" font-size="12">2</text>
+  <text x="110" y="408" fill="#f8fafc" font-family="Inter,Arial" font-size="14" font-weight="700">System design</text><text x="280" y="408" fill="#ad9fff" font-family="Inter,Arial" font-size="12">18m</text>
+  <circle cx="84" cy="450" r="11" fill="#1b2a40" stroke="#40516a"/><text x="80" y="455" fill="#8495aa" font-family="Arial" font-size="12">3</text>
+  <text x="110" y="456" fill="#91a2b8" font-family="Inter,Arial" font-size="14">Coding</text><text x="280" y="456" fill="#798ba3" font-family="Inter,Arial" font-size="12">15m</text>
+  <circle cx="84" cy="498" r="11" fill="#1b2a40" stroke="#40516a"/><text x="80" y="503" fill="#8495aa" font-family="Arial" font-size="12">4</text>
+  <text x="110" y="504" fill="#91a2b8" font-family="Inter,Arial" font-size="14">Behavioural</text><text x="286" y="504" fill="#798ba3" font-family="Inter,Arial" font-size="12">7m</text>
+  <line x1="70" y1="542" x2="320" y2="542" stroke="#223653"/>
+  <text x="70" y="580" fill="#8193ac" font-family="Inter,Arial" font-size="12" letter-spacing="1">RESUME SIGNALS</text>
+  <rect x="70" y="602" width="106" height="30" rx="15" fill="#202b4d"/><text x="86" y="622" fill="#b8b0ff" font-family="Inter,Arial" font-size="12">Spring Boot</text>
+  <rect x="184" y="602" width="92" height="30" rx="15" fill="#173a42"/><text x="202" y="622" fill="#5de0c7" font-family="Inter,Arial" font-size="12">LangGraph</text>
+  <rect x="70" y="642" width="78" height="30" rx="15" fill="#3a2d22"/><text x="88" y="662" fill="#ffc475" font-family="Inter,Arial" font-size="12">AWS</text>
+  <rect x="156" y="642" width="118" height="30" rx="15" fill="#202b4d"/><text x="174" y="662" fill="#b8b0ff" font-family="Inter,Arial" font-size="12">Observability</text>
+  <rect x="70" y="856" width="250" height="58" rx="16" fill="#121f34" stroke="#2a3e5d"/>
+  <circle cx="98" cy="885" r="8" fill="#3fd2b7"/><text x="116" y="882" fill="#d9e5f2" font-family="Inter,Arial" font-size="13" font-weight="700">Session recording on</text><text x="116" y="901" fill="#7f91a8" font-family="Inter,Arial" font-size="11">Transcript stored locally</text>
+
+  <rect x="380" y="110" width="796" height="838" rx="24" fill="#0e1b2e" stroke="#223653" filter="url(#s)"/>
+  <rect x="380" y="110" width="796" height="78" rx="24" fill="#12223a"/><text x="416" y="143" fill="#7f92aa" font-family="Inter,Arial" font-size="12">SYSTEM DESIGN · QUESTION 2 OF 5</text><text x="1086" y="151" fill="#58dbc2" font-family="Inter,Arial" font-size="15" font-weight="700">12:48</text>
+  <text x="416" y="232" fill="#f8fafc" font-family="Inter,Arial" font-size="24" font-weight="700">Design an AI gateway for multiple teams.</text>
+  <text x="416" y="269" fill="#9aacc2" font-family="Inter,Arial" font-size="16">How would you enforce tenant budgets, model fallbacks and traceability</text><text x="416" y="294" fill="#9aacc2" font-family="Inter,Arial" font-size="16">while keeping the critical path reliable?</text>
+  <rect x="416" y="330" width="724" height="342" rx="18" fill="#091525" stroke="#293d5c"/>
+  <text x="444" y="367" fill="#6bdfff" font-family="Inter,Arial" font-size="13" font-weight="700">YOUR WORKSPACE</text>
+  <rect x="444" y="391" width="668" height="246" rx="12" fill="#0d1b2e"/>
+  <rect x="472" y="423" width="130" height="58" rx="12" fill="#252452" stroke="#6456d9"/><text x="504" y="447" fill="#dcd8ff" font-family="Inter,Arial" font-size="12">API CLIENTS</text><text x="501" y="466" fill="#8c84db" font-family="Inter,Arial" font-size="10">team + service</text>
+  <path d="M602 452h72" stroke="#4a6589" stroke-width="2"/><path d="M667 445l10 7-10 7" fill="#4a6589"/>
+  <rect x="678" y="413" width="180" height="78" rx="12" fill="#173341" stroke="#2e9f9a"/><text x="719" y="444" fill="#d6fff8" font-family="Inter,Arial" font-size="13">AI GATEWAY</text><text x="702" y="466" fill="#69cfc1" font-family="Inter,Arial" font-size="10">policy · routing · audit</text>
+  <path d="M858 452h72" stroke="#4a6589" stroke-width="2"/><path d="M923 445l10 7-10 7" fill="#4a6589"/>
+  <rect x="934" y="423" width="140" height="58" rx="12" fill="#3b2d21" stroke="#a36b38"/><text x="973" y="447" fill="#ffe7c6" font-family="Inter,Arial" font-size="12">MODELS</text><text x="961" y="466" fill="#d9a66e" font-family="Inter,Arial" font-size="10">primary + fallback</text>
+  <rect x="678" y="542" width="180" height="62" rx="12" fill="#192942" stroke="#385273"/><text x="722" y="567" fill="#dbe7f4" font-family="Inter,Arial" font-size="12">CONTROL DATA</text><text x="706" y="586" fill="#839bb7" font-family="Inter,Arial" font-size="10">quota · trace · prompt</text>
+  <path d="M768 491v51" stroke="#4a6589" stroke-width="2"/><path d="M761 535l7 10 7-10" fill="#4a6589"/>
+  <text x="416" y="710" fill="#8fa2ba" font-family="Inter,Arial" font-size="13">Explain your design aloud. The interviewer will adapt follow-ups to your answer.</text>
+  <rect x="416" y="748" width="724" height="94" rx="18" fill="#12223a" stroke="#2b4262"/>
+  <circle cx="460" cy="795" r="26" fill="#6d5dfc"/><path d="M455 784v17M465 784v17M450 794c0 14 20 14 20 0M460 808v7" stroke="white" stroke-width="2" fill="none"/>
+  <text x="500" y="788" fill="#f8fafc" font-family="Inter,Arial" font-size="14" font-weight="700">Listening…</text><text x="500" y="812" fill="#879ab3" font-family="Inter,Arial" font-size="13">“I would separate the data plane from the control plane…”</text>
+  <rect x="990" y="771" width="122" height="48" rx="14" fill="#243650"/><text x="1023" y="801" fill="#d5e0ec" font-family="Inter,Arial" font-size="13" font-weight="700">Submit</text>
+  <text x="416" y="892" fill="#63d9ff" font-family="Inter,Arial" font-size="14" font-weight="700">Ask for clarification</text><text x="1070" y="892" fill="#899bb4" font-family="Inter,Arial" font-size="13">Skip question</text>
+
+  <rect x="1206" y="110" width="354" height="838" rx="24" fill="#0e1b2e" stroke="#223653"/>
+  <text x="1238" y="157" fill="#f8fafc" font-family="Inter,Arial" font-size="18" font-weight="700">Live evaluation</text>
+  <rect x="1238" y="184" width="290" height="106" rx="17" fill="#13243b"/>
+  <text x="1262" y="215" fill="#8396af" font-family="Inter,Arial" font-size="12">CURRENT SIGNAL</text><text x="1262" y="253" fill="#f8fafc" font-family="Inter,Arial" font-size="25" font-weight="700">Structured thinking</text><circle cx="1493" cy="236" r="12" fill="#3fd2b7"/>
+  <text x="1238" y="338" fill="#8295ad" font-family="Inter,Arial" font-size="12" letter-spacing="1">EVALUATION DIMENSIONS</text>
+  <text x="1238" y="379" fill="#d7e2ef" font-family="Inter,Arial" font-size="14">Requirements</text><rect x="1238" y="394" width="290" height="8" rx="4" fill="#223451"/><rect x="1238" y="394" width="238" height="8" rx="4" fill="#43d3b9"/>
+  <text x="1238" y="439" fill="#d7e2ef" font-family="Inter,Arial" font-size="14">Trade-offs</text><rect x="1238" y="454" width="290" height="8" rx="4" fill="#223451"/><rect x="1238" y="454" width="190" height="8" rx="4" fill="#6d5dfc"/>
+  <text x="1238" y="499" fill="#d7e2ef" font-family="Inter,Arial" font-size="14">Reliability</text><rect x="1238" y="514" width="290" height="8" rx="4" fill="#223451"/><rect x="1238" y="514" width="215" height="8" rx="4" fill="#63d9ff"/>
+  <text x="1238" y="559" fill="#d7e2ef" font-family="Inter,Arial" font-size="14">Communication</text><rect x="1238" y="574" width="290" height="8" rx="4" fill="#223451"/><rect x="1238" y="574" width="252" height="8" rx="4" fill="#ffb860"/>
+  <rect x="1238" y="626" width="290" height="174" rx="18" fill="#12223a" stroke="#2b4262"/>
+  <text x="1262" y="660" fill="#63d9ff" font-family="Inter,Arial" font-size="13" font-weight="700">RESUME FOLLOW-UP</text>
+  <text x="1262" y="695" fill="#dfe8f2" font-family="Inter,Arial" font-size="14">You mentioned OpenTelemetry.</text><text x="1262" y="719" fill="#dfe8f2" font-family="Inter,Arial" font-size="14">How would traces cross the</text><text x="1262" y="743" fill="#dfe8f2" font-family="Inter,Arial" font-size="14">gateway and async workers?</text>
+  <text x="1262" y="779" fill="#9aacc2" font-family="Inter,Arial" font-size="12">Queued based on your resume evidence</text>
+  <rect x="1408" y="902" width="120" height="26" rx="13" fill="#17263d"/><text x="1423" y="919" fill="#8498b3" font-family="Inter,Arial" font-size="10" letter-spacing="1">CONCEPT PREVIEW</text>
+</svg>

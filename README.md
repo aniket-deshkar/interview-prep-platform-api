@@ -12,6 +12,25 @@ operations, automated tests, migrations, containers, and CI.
 > and integration seams are implemented. Provider callbacks, production resume extraction, and
 > isolated code execution are explicit next-stage adapters rather than simulated features.
 
+## Product UI concepts
+
+The backend is designed to power **CareerForge**, an AI-assisted interview preparation and job
+application workspace. The following images are frontend integration concepts, not screenshots of
+an implemented frontend in this API repository. They make the intended product flows and API
+consumers explicit without overstating the backend's current scope.
+
+### Command center
+
+![CareerForge command center concept](docs/screenshots/dashboard.png)
+
+### Resume-aware mock interview
+
+![CareerForge mock interview concept](docs/screenshots/mock-interview.png)
+
+### Application and offer tracker
+
+![CareerForge application tracker concept](docs/screenshots/application-tracker.png)
+
 ## What is included
 
 - JWT access and refresh authentication with Argon2id password hashing
@@ -307,4 +326,3 @@ See [SECURITY.md](SECURITY.md) for the operational baseline.
 
 MIT. Third-party question sources retain their own terms; store links and original metadata rather
 than copying protected problem statements unless the applicable license permits it.
-
