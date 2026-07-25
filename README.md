@@ -1,4 +1,4 @@
-# Interview Prep Platform API
+# CareerForge - Interview Prep Platform 
 
 A production-oriented Python backend for a complete interview-preparation workspace: curated
 DSA and theory practice, resume-aware mock interviews, SQL/NoSQL/vector-database exercises,
