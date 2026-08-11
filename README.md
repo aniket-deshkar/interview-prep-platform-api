@@ -12,6 +12,11 @@ operations, automated tests, migrations, containers, and CI.
 > and integration seams are implemented. Provider callbacks, production resume extraction, and
 > isolated code execution are explicit next-stage adapters rather than simulated features.
 
+## Problem Statement
+
+Interview preparation is commonly split across coding websites, personal notes, resume documents, calendars, and job-tracking spreadsheets. This fragmentation makes it difficult to identify skill gaps, connect practice to a specific resume, retain interview feedback, and understand progress across an active job search. CareerForge addresses that problem through one backend that unifies structured practice, resume-aware mock interviews, application tracking, interview notes, and provider integrations.
+
+
 ## Product UI concepts
 
 The backend is designed to power **CareerForge**, an AI-assisted interview preparation and job
